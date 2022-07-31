@@ -1,0 +1,19 @@
+body {
+  font-weight: bold;
+}
+
+.title {
+  background-color: orange;
+}
+
+.extreme {
+  background-color: red;
+}
+
+.medium {
+  background-color: orange;
+}
+
+.low {
+  background-color: gold;
+}
